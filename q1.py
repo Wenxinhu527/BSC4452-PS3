@@ -24,6 +24,6 @@ for index, row in df.iterrows():
         highest_time = time
 
 # Print results
-print(f"Highest water level: {highest_water}m")
+print(f"Highest water level: {highest_water}ft")
 print(f"Observed date: {highest_date}")
 print(f"Observed time: {highest_time}")
